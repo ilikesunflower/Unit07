@@ -30,6 +30,7 @@
 		</style>
 	</head>
 	<body>
+		<div>con trâu đang ăn trên đồng cỏ</div>
 		<div class="container"  >
 			<h2 align="center">DANH SÁCH SẢN PHẨM</h2>
 			<a href="add1.php" class="btn btn-primary">Thêm mới sản phẩm</a>
