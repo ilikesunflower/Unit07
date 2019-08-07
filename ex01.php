@@ -32,6 +32,7 @@
 	<body>
 		<div class="container"  >
 			<h2 align="center">DANH SÁCH SẢN PHẨM</h2>
+			<p>Hoc là học cho nên Chơi thì chơi cho tốt</p>
 			<a href="add1.php" class="btn btn-primary">Thêm mới sản phẩm</a>
 			<table class="table">
 				<thead>
